@@ -1,0 +1,40 @@
+.we-show-up h1 {
+  color: #e05929;
+  font-size: 32px;
+  margin: 40px 0;
+}
+
+.we-show-up h2 {
+  color: #03173e;
+  font-size: 22px;
+}
+
+.we-show-up p {
+  color: #58595b;
+  font-size: 14px;
+}
+
+.we-show-up p a {
+  color: #03173e;
+}
+
+.we-show-up .hero {
+  background-image: url("./img/23HCAC085_CorporateReputation_MWHeader_1990x680_Wheelchair.png");
+  height: 342px;
+}
+
+.we-show-up .d-flex {
+  flex-wrap: wrap;
+  margin-top: 40px;
+}
+
+.we-show-up .d-flex a {
+  background-color: #f5f5f5;
+  color: #03173e;
+  font-family: "MarkHeavy", sans-serif;
+  border-bottom: 20px solid #fff;
+  border-right: 20px solid #fff;
+  padding: 20px;
+  flex-basis: 33.3333%;
+  text-align: center;
+}
